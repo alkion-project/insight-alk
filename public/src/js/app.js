@@ -2,7 +2,7 @@
 var APP_CONFIG = {
     COINNAME: "ALKION",
     SYMBOL: "ALK",
-    SYMBOL_M: "mBHA",
+    SYMBOL_M: "mALK",
     SYMBOL_BITS: "bits",
     URL: 'alkion',
     SHOWMONEY: false
