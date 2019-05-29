@@ -1,10 +1,10 @@
 // Source: public/src/js/app.js
 var APP_CONFIG = {
-    COINNAME: "BITHAO",
-    SYMBOL: "BHA",
-    SYMBOL_M: "mBHA",
+    COINNAME: "ALKION",
+    SYMBOL: "ALK",
+    SYMBOL_M: "mALK",
     SYMBOL_BITS: "bits",
-    URL: 'bithao',
+    URL: 'alkion',
     SHOWMONEY: false
 };
 var lang = navigator.languages ?
@@ -1032,7 +1032,7 @@ angular.module('insight.api')
   .factory('Api',
     function() {
       return {
-        apiPrefix: '/insight-bha-api'
+        apiPrefix: '/insight-alk-api'
       }
     });
 
