@@ -1,10 +1,10 @@
 // Source: public/src/js/app.js
 var APP_CONFIG = {
-    COINNAME: "ALKION",
+    COINNAME: "SUPERALKI",
     SYMBOL: "ALK",
     SYMBOL_M: "mALK",
     SYMBOL_BITS: "bits",
-    URL: 'alkion',
+    URL: 'superalki',
     SHOWMONEY: false
 };
 var lang = navigator.languages ?
