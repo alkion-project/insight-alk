@@ -1,8 +1,8 @@
 'use strict';
 var APP_CONFIG = {
     COINNAME: "Super Alki",
-    SYMBOL: "SALKI",
-    SYMBOL_M: "mSALKI",
+    SYMBOL: "SALK",
+    SYMBOL_M: "mSALK",
     SYMBOL_BITS: "bits",
     URL: 'superalki',
     SHOWMONEY: false
